@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42132'
     url: http://www.gutenberg.org/2009/agents/42132
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43320#The-Wonder-Book-of-Volcanoes-and-Earthquakes
 gutenberg_issued: '2013-07-27'
 gutenberg_type: Text
 identifiers:
